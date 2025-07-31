@@ -1,8 +1,6 @@
 # 🏡 Staybnb – A full-stack web application
 
 
-## 🎯About
-
 Staybnb is a full-stack web application inspired by Airbnb that enables users to browse, list, and book short-term rental properties. It features user authentication, property management, and booking functionality.
 
 
@@ -43,10 +41,11 @@ Here is the live view of this website. It is hosted on Render https://staybnb-81
 
 3. **Setup Environment Variables**
     Create a .env file in the root directory:
-
+```markdown
     PORT=8080
     MONGODB_URI=your_mongodb_connection_string
     SESSION_SECRET=your_secret_key
+```
 
 4. **Run the App**
 ```markdown
