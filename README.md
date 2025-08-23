@@ -4,6 +4,10 @@
 Staybnb is a full-stack web application inspired by Airbnb that enables users to browse, list, and book short-term rental properties. It features user authentication, property management, and booking functionality.
 
 
+## 🖱️Live Demo
+
+Here is the live view of this website. It is hosted on Render https://staybnb-81j9.onrender.com/listings
+
 ## ✨ Features
 
 - 🔐 User authentication (register/login/logout)
@@ -22,9 +26,6 @@ Staybnb is a full-stack web application inspired by Airbnb that enables users to
 **Tools & Libraries:** Multer (for image upload), EJS / Pug / Handlebars / Mapbox
 
 
-## 🖱️Live Demo
-
-Here is the live view of this website. It is hosted on Render https://staybnb-81j9.onrender.com/listings
 
 
 ## 🚀 Getting Started
