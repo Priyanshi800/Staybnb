@@ -6,7 +6,7 @@ Staybnb is a full-stack web application inspired by Airbnb that enables users to
 
 ## 🖱️Live Demo
 
-Here is the live view of this website. It is hosted on Render https://staybnb-81j9.onrender.com/listings
+Here is the live view of this website. It is hosted on Render https://staybnb-81j9.onrender.com/listings  or visit to https://staybnb-1-4l6g.onrender.com/listings
 
 ## ✨ Features
 
