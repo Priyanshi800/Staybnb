@@ -13,6 +13,7 @@ Here is the live view of this website. It is hosted on Render https://staybnb-81
 - 🔐 User authentication (register/login/logout)
 - 🏠 Hosts can list properties with images and details
 - 🌍 Geolocation-based search with Map APIs (Mapbox) 
+- 📱 Mobile responsiveness enhancements  
 - ⭐ Review and rating system for users 
 - 📤 Upload and manage property listings
 - 📦 RESTful API structure
@@ -73,7 +74,6 @@ Visit: http://localhost:8080
 - 💳 Stripe integration for payments  
 - 🔍 Users can search and filter properties(UI)
 - 📅 Book properties for specific dates 
-- 📱 Mobile responsiveness enhancements  
 - 🛠️ Admin panel for managing listings
 
 
