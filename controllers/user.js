@@ -4,11 +4,11 @@ const User = require("../models/user");
 
 
 module.exports.renderSignupForm = (req, res) => {
-    res.render({ currUser: req.user}, "users/signup.ejs");
+    res.render("users/signup", { currUser: req.user});
 };
 
 module.exports.renderLoginForm = (req, res) => {
-    res.render({ currUser: req.user}, "users/login.ejs");
+    res.render("users/login", { currUser: req.user});
 };
 
 
