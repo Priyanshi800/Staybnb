@@ -23,8 +23,8 @@ Staybnb is a full-stack web application inspired by Airbnb that enables users to
 
 **Frontend:** HTML, CSS, JavaScript, Bootstrap  
 **Backend:** Node.js, Express.js  
-**Database:** MongoDB (Mongoose)  
-**Tools & Libraries:** Multer (for image upload), EJS / Pug / Handlebars / Mapbox
+**Database:** MongoDB (Mongoose)  ,  MongoDB Atlas
+**Tools & Libraries:** Cloudinary,  Mapbox
 
 
 
@@ -47,6 +47,10 @@ Staybnb is a full-stack web application inspired by Airbnb that enables users to
     PORT=8080
     MONGODB_URI=your_mongodb_connection_string
     SESSION_SECRET=your_secret_key
+    CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
+    CLOUDINARY_API_KEY=your_cloudinary_api_key
+    CLOUDINARY_API_SECRET=your_cloudinary_api_secret
+    MAP_TOKEN=enter_your_mapbox_token
 ```
 
 4. **Run the App**
