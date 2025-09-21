@@ -6,7 +6,8 @@ Staybnb is a full-stack web application inspired by Airbnb that enables users to
 
 ## 🖱️Live Demo
 
-Here is the live view of this website  https://youtu.be/c1PWDNnYe7c?si=a4By2BiIpsSeAZD6
+[![Watch the demo](./public/assets/demo-thumnail.png)](https://youtu.be/c1PWDNnYe7c)
+
 
 ## ✨ Features
 
