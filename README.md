@@ -1,4 +1,4 @@
-# 🏡 Staybnb – A full-stack web application
+# 🏡 Staybnb – Online Marketplace for Homestays and Experiences
 
 
 Staybnb is a full-stack web application inspired by Airbnb that enables users to browse, list, and book short-term rental properties. It features user authentication, property management, and booking functionality.
